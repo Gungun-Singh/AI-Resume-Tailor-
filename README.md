@@ -17,9 +17,8 @@ AI Resume Tailor is a web application that helps job seekers align their resumes
 ## 🚀 Tech Stack
 | Layer | Technology |
 |-------|------------|
-| Frontend | React (Hooks, Components) |
+| Frontend | Streamlit (for UI) |
 | Styling | CSS |
-| Runtime | JavaScript |
 | AI Processing | Groq + CAMEL-AI Agents |
 | File Handling | PDF text extraction |
 
